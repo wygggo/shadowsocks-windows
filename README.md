@@ -4,6 +4,7 @@
 [![Build Status]][Appveyor]
 
 [中文说明]
+点击【中文说明】下载shadowsocks
 
 #### Features
 
